@@ -1,1 +1,10 @@
 My first file on git learn
+
+Concpet would be to add new/changed files to stage
+command like 
+git add . -- this adds all changes
+git add file1.txt
+
+then commit the stage to repo
+
+git commit
