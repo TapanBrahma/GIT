@@ -1,10 +1,22 @@
 My first file on git learn
 
-Concpet would be to add new/changed files to stage
+Step1 
+Create the files/changes
+
+Step 2 
+Save the changes.
+if you dont save, nothing will be staged
+
+Step 3
+Add new/changed files to stage
 command like 
 git add . -- this adds all changes
 git add file1.txt
 
+Step 4
 then commit the stage to repo
 
-git commit
+git commit -m ""message"
+
+
+In command prompt if you dont give any message , it will abort the commit probably
